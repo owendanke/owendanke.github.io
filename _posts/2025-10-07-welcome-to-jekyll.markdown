@@ -6,6 +6,9 @@ date:   2025-10-07 23:23:25 -0400
 tags: [website]
 ---
 
+![Image](/assets/images/Dr_Jekyll_and_Mr_Hyde_poster_edit2.jpg)
+[National Printing & Engraving Company, Chicago](https://w.wiki/FmMq)
+
 I finally got around to putting together a static website for myself. I don't know how much I'll be using it so I am sticking with the github.io domain for now.
 As you can tell from the default post title, I am using Jekyll to build the website. I'm not a fan of front-end design, especially when it comes to websites, but Jekyll makes it more interesting with all the `_includes` and `_layouts`.
 
